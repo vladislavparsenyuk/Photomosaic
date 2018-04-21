@@ -5,7 +5,9 @@ A JavaScript plugin that creates a photomosaic of an image.
 
 ### Run demo
 `npm install`
+
 `npm start`
+
 Open **http://localhost:3000**
 
 ### Usage
